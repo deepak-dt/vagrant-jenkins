@@ -1,0 +1,6 @@
+---
+box: "boxcutter/ubuntu1604-desktop"
+jenkins_vm:
+  host_name: jenkins_vm
+  memory: 4096
+  cpus: 2
